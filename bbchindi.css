@@ -1,0 +1,610 @@
+/* fullpage */
+.page{
+    height: 100%;
+    width: 1466px;
+    background-color: grey;
+}
+/* menubar */
+.top{
+    background-color: brown;
+    height: 70px;
+    width: 100%;
+}
+.B{
+    background-color: white;
+    text-align: center;
+    float: left;
+    height: 40px;
+    width: 40px;
+    font-size: 35px;
+    margin-top: 15px;
+    margin-left: 200px;
+    color: brown;
+    font-family: arial,;
+}
+.B2{
+    float: left;
+    text-align: center;
+    background-color: white;
+    height: 40px;
+    width: 40px;
+    font-size: 35px;
+    margin-top: 15px;
+    color: brown;
+    margin-left: 10px;
+    font-family: arial,;
+}
+.c{
+    float: left;
+    text-align: center;
+    background-color: white;
+    font-size: 35px;
+    height: 40px;
+    width: 40px;
+    color: brown;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-family: arial,;  
+}
+.news{
+    float: left;
+    font-size: 45px;
+    margin-top: 9px;
+    font-weight: 20px;
+    font-family: arial;
+    color: white;
+    margin-left: 15px;
+}
+.hindi{
+    float: left;
+    margin-top: 15px;
+    font-size: 35px;
+    font-family: arial;
+    color: white;
+    margin-left: 15px;
+}
+ /* Menu Bar End  */
+
+/* menulist Start   */
+.menu{
+    
+    background-color: whitesmoke;
+    height: 50px;
+    width: 100%;
+}
+.homepage{
+    height: 30px;
+    width: auto;
+    float: left;
+    margin-left: 190px;
+    padding: 10px;
+    font-size: 20px;
+}
+.India{
+    height: 30px;
+    width: auto;
+    float: left;
+    margin-left: 15px;
+    padding: 10px;
+    font-size: 20px;
+}
+.Foregin{
+    height: 30px;
+    width: auto;
+    float: left;
+    margin-left: 15px;
+    padding: 10px;
+    font-size: 20px;
+}
+.Entertainment{
+    height: 30px;
+    width: auto;
+    float: left;
+    margin-left: 15px;
+    padding: 10px;
+    font-size: 20px;
+}
+.Play{
+    height: 30px;
+    width: auto;
+    float: left;
+    margin-left: 15px;
+    padding: 10px;
+    font-size: 20px;
+}
+.Science-and-technology{
+    height: 30px;
+    width: auto;
+    float: left;
+    margin-left: 15px;
+    padding: 10px;
+    font-size: 20px;
+}
+.social{
+    height: 30px;
+    width: auto;
+    float: left;
+    margin-left: 1px;
+    padding: 10px;
+    font-size: 20px;
+}
+.Vedio{
+    height: 30px;
+    width: auto;
+    float: left;
+    margin-left: 15px;
+    padding: 10px;
+    font-size: 20px;
+}
+.podcast{
+    height: 30px;
+    width: auto;
+    float: left;
+    margin-left: 15px;
+    padding: 10px;
+    font-size: 20px;
+}
+ /* Menulist End  */
+
+ /* Trending topic start  */
+.lower{
+    background-color: white;
+    height:270px;
+    width: 1466px;
+}
+.img{
+    float: left;
+    height: 250px;
+    width: 510px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.headline{
+    float: left;
+    height: 180px;
+    width: 550px;
+    font-weight: bold;
+    margin-top: -250px;
+    margin-left: 760px;
+    font-size: 32px;
+    font-family: arial;
+}
+.subtittle{
+    float: left;
+    font-size: 20px;
+    margin-left: 760px;
+    margin-top: -95px;
+    height: 95px;
+    width: 550px;
+    color: brown;
+}
+.rowtext{
+    float: left;
+    /* background-color: whitesmoke; */
+    height: 110px;
+    padding-top: 10px;
+    width: 1466px;
+}
+.line{
+    height:60px;
+    width: 550px;
+    font-size: 20px;
+    font-weight: 40px;
+    font-family: arial;
+    margin-left: 760px; 
+}
+/* <!-- 8 image div start  --> */
+ /* one image on only  */
+.topnews{
+    background-color: white;
+    height: 740px;
+    width: 1466px;
+}
+/* <!-- firstline image 3 --> */
+.image{
+    float: left;
+    margin-left: 200px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+.tittleimage{
+    height: 70px;
+    width: 250px;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.time{
+    height: 20px;
+    width: 250px;
+    font-family: arial;
+    color: grey;
+}
+/* three-image-news */
+.image-news{
+    float: left;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-bottom: 30px;
+}
+.tittle-of-img{
+    height: 90px;
+    width: 250px;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.publish-time{
+    height: 20px;
+    width: 250px;
+    font-family: arial;
+    color: grey;
+}
+/* .secondline-img firts  */
+.row-img{
+    float: left;
+    margin-left: 200px;
+}
+
+.tittle-row-img{
+    padding-top: 10px;
+    height: 70px;
+    width: 250px;
+    font-size: 20px;
+}
+.pub-time{
+
+    height: 20px;
+    width: 250px;
+    font-family: arial;
+    color: grey;
+}
+/* .secondline-img-three */
+.secondline-img{
+    float: left;
+    margin-left: 30px;
+}
+.secondline-tittle{
+    height: 70px;
+    width: 250px;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.second-time{
+    height: 20px;
+    width: 250px;
+    font-family: arial;
+    color: grey;
+}
+.special-news{
+    height: 950px;
+    width: 1466px;
+}
+.bbc-special{
+    padding-top: 20px;  
+    margin-left: 200px;
+    font-size: 30px;
+}
+.bbc-special-img{
+    float: left;
+    height: 280px;
+    width: 510px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.special-news-headline{
+    margin-top: 20px;
+    height: 200px;
+    width: 550px;
+    margin-left: 760px;
+    font-size: 32px;
+    font-family: arial;
+    line-height: 45px;
+    font-weight: bold;
+}
+.special-subtitle{ 
+    float: left;
+    margin-left: 52px;
+    margin-top: -50px;
+    height:130px;
+    width: 550px;
+    font-size: 20px;
+    font-weight: 40px;
+    color: brown;
+    font-family: arial;
+}
+.special-pub{
+    float: left;
+    color: brown;
+    font-size: 20px;
+    height: 50px;
+    width: 550px;
+    margin-top: 30px; 
+    margin-left: -550px;
+}
+/* 8image-bbc-special */
+.image-new-special{
+    float: left;
+    margin-top: 20px;
+    background-color: blue;
+    height: 150px;
+    width: 250px;
+    margin-left: 200px;
+}
+/* <!-- START OF Podcast  --> */
+.podcast-div{
+   
+    height: 670px;
+    width: 1466px;
+}
+.highlight-pod{
+    float: left;
+    /* background-color: bisque; */
+    height: 50px;
+    width: 180px;
+    padding-top: 10px;
+    margin-left: 200px;
+    font-size: 35px;
+
+}
+.see-pod{
+    /* background-color: bisque; */
+    height: 50px;
+    width: 100px;
+    padding-top: 10px;
+    margin-left: 1190px;
+    font-size: 35px;
+}
+.subtittle-div{
+    float: left;
+    margin-left: 200px;
+    color: gray;
+    /* background-color: aquamarine; */
+    height: auto;
+    width: 250px;
+    font-size: 32px;
+}
+.podcast-img{
+    /* background-color: blue; */
+    height: 300px;
+    width: 530px;
+    float: left;
+    margin-left: 30px;
+}
+.podcast-first-image{
+    /* background-color: blue; */
+    float: left;
+    margin-left: 30px;
+}
+.podcast-tittleimg{
+    /* background-color: blueviolet; */
+    height: 70px;
+    width: 250px;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.podcast-publ{
+    height: 80px;
+    width: 250px;
+    font-family: arial;
+    color: grey;
+}
+ /* end of podcast  */
+
+/* start of multimedia  */
+.multimedia{
+    height: 950px;
+    width: 1466px;
+}
+ /* end of multimedia  */
+
+/* special-bbc  */
+.special-bbc{
+    background-color: whitesmoke;
+    float: left;
+    height: 700px;
+    width: 1466px;
+}
+
+/* Magazien Start  */
+.Magazien{
+    float: left;
+    height: 950px;
+    width: 1466px;
+}
+
+/* india Start  */
+.india-vlog{
+    float: left;
+    height: 950px;
+    width: 1466px;
+}
+/* Foergin Start  */
+.foregin-vlog{
+    float: left;
+    height: 950px;
+    width: 1466px;
+}
+.Entertainment-Vlog{
+    float: left;
+    height: 950px;
+    width: 1466px;
+}
+
+/* .play-vlog  */
+.play-blog{
+    float: left;
+    height: 950px;
+    width: 1466px;
+}
+
+.science-blog{
+    float: left;
+    height: 950px;
+    width: 1466px;
+}
+
+.popular-face{
+    float: left;
+    height: 950px;
+    width: 1466px;
+}
+
+.move-away{
+    float: left;
+    height: 950px;
+    width: 1466px;
+}
+
+.from-history{
+    float: left;
+    height: 950px;
+    width: 1466px;
+}
+
+.bbc-blogs{
+    float: left;
+    height: 950px;
+    width: 1466px;
+}
+
+
+.tv-bullet{
+    float: left;
+    height:250px;
+    width: 1466px;
+}
+.smallbulllet-div{
+    margin-left: 200px;
+    background-color: aqua;
+    height: 250px;
+    width: 1090px;
+}
+.bullet-img{
+    padding: 15px;
+    float: left;
+    height: 220px;
+    width: 530px;
+}
+.bullet-tittle{
+    margin-left: -10px;
+    margin-top: 10px;
+    font-weight: bold;
+    float: left;
+    font-size: 33px;
+    height: 30px;
+    width: 300px;
+    padding: 10px;
+
+}
+.bullet-sub{
+    float: left;
+    height: 60px;
+    width: 500px;
+    font-size: 20px;
+    line-height: 30px;
+}
+.see-button{
+    padding: 20px;
+    float: left;  
+}
+.must-read{
+    float: left;
+    height: 80px;
+    width: 1466px;
+}
+.must{
+    margin-left: 200px;
+    padding-top: 25px;
+    font-size: 30px;
+}
+.hindi-pod{
+    background-color: whitesmoke;
+    float: left;
+    height: 680px;
+    width: 1466px;
+}
+.most{
+    float: left;
+    height: 40px;
+    width: 1466px;
+    width: 1466px;
+}
+.most-read{
+    margin-left: 200px;
+    padding-top: 10px;
+    font-size: 30px;
+}
+.trendnews{
+    float: left;
+    height: 450px;
+    width: 1466px;
+}
+.one{
+   
+    margin-top: 25px;
+    float: left;
+    color: red;
+    font-size: 50px;
+    margin-left: 200px;
+    height: 60px;
+    width: 40px;
+}
+.one-views{
+    margin-top: 25px;
+    float: left;
+    padding-top: 10px;
+    font-weight: bold;
+    height: 50px;
+    width: 500px;
+    font-size: 20px;
+}
+.two{
+    margin-top: 25px;
+    float: left;
+    color: red;
+    font-size: 50px;
+    margin-left: 8px;
+    height: 60px;
+    width: 60px;
+}
+.bbc-end{
+    float: left;
+    height: 70px;
+    width: 1466px;
+}
+.bbc-footter{
+    float: left;
+    height: 300px;
+    width: 1466px;
+    background-color: black;
+}
+.trust{
+    height: 30px;
+    width: 250px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 30px;
+    margin-left: 200px;
+}
+.terms{
+    height: 50px;
+    width: 150px;
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 30px;
+    margin-left: 200px;
+}
+.term{
+  
+    height: 50px;
+    width: 1200px;
+    margin-left: 200px;
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 30px;
+
+}
